@@ -1,7 +1,8 @@
 Getting and Cleaning Data Project
 ---
 
-This repository contains R code that does some preprocessing on [Human Activity Recognition data set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+This repository contains R code that does some preprocessing on [Human Activity Recognition data set](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones).
+
 See CodeBook.md for details.
 
 ## How script works
